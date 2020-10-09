@@ -1,5 +1,10 @@
 This is a Movie Review Application in Angular
 
+Output Screenshots
+![alt text](Output-Screen-1.png) 
+![alt text](Output-Screen-2.png) 
+![alt text](Output-Screen-3.png) 
+
 Follow the following steps to run the application.
 
 ## Development server

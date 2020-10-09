@@ -1,6 +1,6 @@
 This is a Movie Review Application in Angular
 
-Follow the following steps run the application.
+Follow the following steps to run the application.
 
 ## Development server
 
